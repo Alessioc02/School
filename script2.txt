@@ -1,4 +1,2 @@
 Dit is regel 1
 Dit is regel 2
-dit is regel 4
-dit is regel 5
